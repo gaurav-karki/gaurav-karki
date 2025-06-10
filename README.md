@@ -1,5 +1,10 @@
 # 💫 About Me:
-# Hi there, I am Gaurav Karki<br>**Student. On a Mission.**<br>- I’m currently a student at IIMS college.<br>- I’m looking to collaborate on my academic projects and open source as well.<br>- I’m currently learning the data science fundamentals, Python libraries like Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch etc. for Machine Learning.<br>- Currently learning everything I can—there’s always something new in tech!
+**Hi there, I am Gaurav Karki**<br>
+*Student. On a Mission.*<br>
+- I’m currently a student at IIMS college.<br>
+- I’m looking to collaborate on my academic projects and open source as well.<br>
+- I’m currently learning the data science fundamentals, Python libraries like Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch etc. for Machine Learning.<br>
+- Currently learning everything I can—there’s always something new in tech!
 
 
 # 💻 Tech Stack:
