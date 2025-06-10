@@ -12,11 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=gaurav-karki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gaurav-karki&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-karki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=gaurav-karki&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 The Backpropagating Snake 🐍
+Tracing my contributions like gradients through time.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/github-snake-dark.svg" />
