@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a student at IIMS college<br>I’m looking to collaborate on my academic projects and open source as well.<br>I’m currently learning the data science fundamentals, Python libraries like Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch etc for Machine Learning<br>
+I’m currently a student at IIMS college.<br>I’m looking to collaborate on my academic projects and open source as well.<br>I’m currently learning the data science fundamentals, Python libraries like Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch etc for Machine Learning.<br>
 
 
 ## 🌐 Socials:
