@@ -18,3 +18,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![GitHub Snake](https://github.com/gaurav-karki/gaurav-karki/.github/workflows/snake.yml)
