@@ -19,5 +19,5 @@ Tracing my contributions like gradients through time.
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/gaurav-karki/gaurav-karki/blob/output/github-snake-dark.svg)
 </div>
