@@ -16,6 +16,8 @@
 # 🧠 The Backpropagating Snake 🐍
 Tracing my contributions like gradients through time.
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/ocean.gif" alt="Snake Game" />
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
