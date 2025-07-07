@@ -17,13 +17,5 @@
 Tracing my contributions like gradients through time.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/github-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/ocean.gif" alt="Snake Game" />
 </div>
