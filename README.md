@@ -13,11 +13,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gaurav-karki&theme=transparent&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-karki&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
-# 🧠 The Backpropagating Snake 🐍
-Tracing my contributions like gradients through time.
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/gaurav-karki/gaurav-karki/blob/output/github-snake-dark.svg)
-</div>
