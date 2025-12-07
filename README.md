@@ -11,6 +11,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gaurav-karki-9b7492281)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?logo=datacamp&style=for-the-badge)](https://www.datacamp.com/portfolio/karkigaurav01)  
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gaurav-karki/gaurav-karki/output/snake.svg" />
+</div>
+
+
+
+
+
 
 
 
